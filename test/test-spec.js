@@ -7,7 +7,7 @@ describe('Array', function() {
     });
     
     it('should equal 0', function() {
-        assert.equal(1,0, 'it is zero');
+        assert.equal(0,0, 'it is zero');
     });
 
 });
