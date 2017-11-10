@@ -20,7 +20,7 @@ deploy:
   bucket: travis-demo
   key: latest.zip
   bundle_type: zip
-  application: TravisGroupDeployment
+  application: TravisDemoApp
   deployment_group: TravisGroupDeployment
   region: eu-west-2
   on: *2
